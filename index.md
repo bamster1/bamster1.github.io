@@ -1,7 +1,6 @@
-My personal homepage and blog. Or actually a logbuch.
+Das ist meine persönliche Homepage bzw. mein Logbuch.
+Hauptsächlich möchte ich meine Erfahrungen während meines 2-jährigen Aufenthalts in Singapur festhalten.
+Sollte sich jemand an den Inhalten erfreuen, darf Er/Sie die Seite gerne regelmäßig besuchen.
 
-If you find this content entertaining, you may read on.
-
-If not, then you are wasting your time.
-
-Cheers!
+Gruß
+Stefan

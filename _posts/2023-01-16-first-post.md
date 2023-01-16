@@ -1,34 +1,12 @@
-## First post and introduction
+## Erster Testeintrag
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
-Let´s see how this works.
+Das ist mein erster Testeintrag um die Blog-Funktionalität via GitHub Pages zu testen.
+Wer weiß, ob ich den Blog tatsächlich mit Inhalt füllen werde, oder ob er nicht irgendwann in Vergessenheit gerät.
 
 ---
 
-### This is a header
+### Singapur Vorbereitung
 
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+Die Vorbereitungen für Singapur starten langsam. Der Abflug ist am 29.03.2023 gebucht und es ist noch viel zu tun.
+Immerhin muss bis dahin noch ein kompletter Haushalt aufgelöst, bzw. eingelagert werden.
+Das macht an und für sich schon keinen Spaß, aber mit einem 6-Wochen alten Baby daheim, macht es das Ganze nochmal spannender... ;-)
