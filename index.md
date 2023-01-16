@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+My personal homepage and blog. Or actually a logbuch.
 
-Maybe say a some things about yourself.
+If you find this content entertaining, you may read on.
 
-Or maybe what you plan to blog about.
+If not, then you are wasting your time.
+
+Cheers!
