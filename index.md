@@ -1,6 +1,5 @@
-Das ist meine persönliche Homepage bzw. mein Logbuch.
-Hauptsächlich möchte ich meine Erfahrungen während meines 2-jährigen Aufenthalts in Singapur festhalten.
-Sollte sich jemand an den Inhalten erfreuen, darf Er/Sie die Seite gerne regelmäßig besuchen.
+Das ist der Versuch meiner persönlichen Homepage bzw. Logbuch.
+Hauptsächlich möchte ich die Erfahrungen von mir und meiner Familie während unseres 2-jährigen Aufenthalts in Singapur festhalten. 
 
 Gruß
 Stefan
