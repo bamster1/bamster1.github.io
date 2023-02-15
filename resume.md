@@ -11,20 +11,31 @@ Job: Software Engineer @ Siltronic AG
 ## Karriere
 
 ### 2021 - aktuell
+**Siltronic AG**\
 Seit August 2021 arbeite ich für die Siltronic AG in Burghausen als Software Ingenieur im Bereich der Transportautomatisierung. 
 
-### 2018 - 2021 - ABBYY
+### 2018 - 2021
+**ABBYY**
 
-### 2013 - 2018 - tegos GmbH
+### 2013 - 2018
+**tegos GmbH**
 
 ---
 ## Schulbildung
 
-### 2020 - 2022 - Master Studium Data Science & Intelligent Analytics an der Hochschule Kufstein
+### 2020 - 2022
+**Data Science & Intelligent Analytics**\
+Hochschule Kufstein\
+Master of Science
 
-### 2009 - 2013 - Bacherlor Studium Wirtschaftsinformatik an der Hochschule Rosenheim
+### 2009 - 2013
+**Wirtschaftsinformatik**\
+Hochschule Rosenheim\
+Bachelor of Science
 
-### 2006 - 2009 - IHK Ausbildung Fachinformatiker für Anwendungsentwicklung
+### 2006 - 2009
+**Fachinformatiker für Anwendungsentwicklung**\
+IHK München
 
 ---
 ## Hobbies
