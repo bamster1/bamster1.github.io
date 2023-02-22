@@ -1,3 +1,9 @@
+---
+layout: post
+title: First Entry
+categories: [Expat, Tech]
+---
+
 ## Erster Testeintrag
 
 Das ist mein erster Testeintrag um die Blog-Funktionalität via GitHub Pages zu testen.
